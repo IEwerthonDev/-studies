@@ -52,7 +52,6 @@ Aqui estão algumas das principais tecnologias abordadas neste repositório:
 ## 📂 Estrutura do Repositório
 
 ```plaintext
-study/
 ├── backend/
 │   ├── algoritmos/
 │   ├── api/
