@@ -1,4 +1,4 @@
-# JSON API
+# 📥 JSON API
 
 JSON API é um padrão de especificação para APIs que utilizam JSON como formato de intercâmbio de dados. Ele define um conjunto de convenções e melhores práticas para criar APIs RESTful de maneira consistente e legível.
 

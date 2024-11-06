@@ -1,4 +1,4 @@
-# **CDN (Content Delivery Network)**
+# 🖇️ **CDN (Content Delivery Network)**
 Uma CDN é uma rede de servidores distribuídos globalmente, que cacheia e entrega conteúdo estático (como imagens, CSS e JavaScript) para usuários de forma rápida e eficiente, baseada na localização geográfica. Isso melhora a velocidade de carregamento e diminui a latência.
 
 ---

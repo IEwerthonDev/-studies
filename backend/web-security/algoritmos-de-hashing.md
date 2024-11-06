@@ -1,4 +1,4 @@
-# Algoritmos de Hashing
+# 🥢 Algoritmos de Hashing
 
 Os algoritmos de hashing são utilizados para converter dados (como senhas) em uma sequência fixa de caracteres (hash), que não pode ser revertida para o valor original. Isso é especialmente útil para armazenar senhas de forma segura em uma base de dados. Vamos ver alguns algoritmos de hashing comuns:
 

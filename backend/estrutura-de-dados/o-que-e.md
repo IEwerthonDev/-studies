@@ -1,4 +1,4 @@
-# O que é estrutura de dados?
+# 🎲 O que é estrutura de dados?
 
 Imagine que você é o dono de uma loja e precisa organizar os produtos que você vende. Você pode armazenar esses produtos de diferentes maneiras, dependendo de como você deseja acessá-los e manipulá-los.
 Uma estrutura de dados é como você organiza e armazena seus produtos na loja. Você pode pensar nela como um método de organização dos seus dados.

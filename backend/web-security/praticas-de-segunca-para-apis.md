@@ -1,4 +1,4 @@
-# Práticas de Segurança para APIs
+# 🥈 Práticas de Segurança para APIs
 
 Quando se trata de APIs, existem diversas práticas recomendadas para garantir a segurança dos dados e evitar ataques. Vamos entender cada uma delas:
 

@@ -1,4 +1,4 @@
-# **Client Side Caching (Cache no Lado do Cliente)**
+# 👨🏿‍💻 **Client Side Caching (Cache no Lado do Cliente)**
 O cache no lado do cliente é o armazenamento temporário de conteúdo no dispositivo do usuário (navegador ou cache local), permitindo que o navegador carregue rapidamente recursos já baixados anteriormente. O cache do lado do cliente pode ser configurado através de cabeçalhos HTTP, como `Cache-Control` e `Expires`.
 
 ---

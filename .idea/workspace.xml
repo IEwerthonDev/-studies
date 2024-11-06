@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ad048bc-b5e5-4d25-80b0-c215bfb9f603" name="Changes" comment="" />
+    <list default="true" id="4ad048bc-b5e5-4d25-80b0-c215bfb9f603" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/algoritmos/o-que-e.md" beforeDir="false" afterPath="$PROJECT_DIR$/backend/algoritmos/o-que-e.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/autenticacoes.md" beforeDir="false" afterPath="$PROJECT_DIR$/backend/api/autenticacoes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/json-apis.md" beforeDir="false" afterPath="$PROJECT_DIR$/backend/api/json-apis.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/o-que-e.md" beforeDir="false" afterPath="$PROJECT_DIR$/backend/api/o-que-e.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/rest.md" beforeDir="false" afterPath="$PROJECT_DIR$/backend/api/rest.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/caching/cdn.md" beforeDir="false" afterPath="$PROJECT_DIR$/backend/caching/cdn.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/caching/client-side.md" beforeDir="false" afterPath="$PROJECT_DIR$/backend/caching/client-side.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/caching/memcached.md" beforeDir="false" afterPath="$PROJECT_DIR$/backend/caching/memcached.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/caching/o-que-e.md" beforeDir="false" afterPath="$PROJECT_DIR$/backend/caching/o-que-e.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/caching/redis.md" beforeDir="false" afterPath="$PROJECT_DIR$/backend/caching/redis.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/caching/server-side.md" beforeDir="false" afterPath="$PROJECT_DIR$/backend/caching/server-side.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/estrutura-de-dados/o-que-e.md" beforeDir="false" afterPath="$PROJECT_DIR$/backend/estrutura-de-dados/o-que-e.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/web-security/algoritmos-de-hashing.md" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web-security/algoritmos-de-hashing.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/web-security/o-que-e.md" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web-security/o-que-e.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/web-security/praticas-de-segunca-para-apis.md" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web-security/praticas-de-segunca-para-apis.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internet/sobre/como-funciona.md" beforeDir="false" afterPath="$PROJECT_DIR$/internet/sobre/como-funciona.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +34,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "IEwerthonDev"
+  }
+}]]></component>
   <component name="GitToolBoxStore">
     <option name="recentBranches">
       <RecentBranches>
@@ -25,12 +49,16 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1730926237" />
+                    <option name="branchName" value="feat/std-002-adiciona-estudos-de-testes" />
+                    <option name="lastUsedInstant" value="1730927790" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="feat/std-001-adiciona-estudos-de-web-security" />
-                    <option name="lastUsedInstant" value="1730926178" />
+                    <option name="branchName" value="develop" />
+                    <option name="lastUsedInstant" value="1730927775" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1730926237" />
                   </RecentBranch>
                 </list>
               </option>
@@ -41,6 +69,12 @@
       </RecentBranches>
     </option>
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:IEwerthonDev/studies.git",
+    "accountId": "e7e846d5-9ad0-4f68-a4a5-6fbd7ae4451e"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -55,7 +89,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "feat/std-002-adiciona-estudos-de-testes",
     "last_opened_file_path": "//wsl.localhost/Ubuntu/home/spiralout/banshee/annotations/studies",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -81,12 +115,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="62c1fd02-8f67-4432-b2ce-3f812bd20e33" name="Changes" comment="" />
+      <changelist id="4ad048bc-b5e5-4d25-80b0-c215bfb9f603" name="Changes" comment="" />
       <created>1730924951288</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730924951288</updated>
       <workItem from="1730924952934" duration="1064000" />
+      <workItem from="1730927748706" duration="1334000" />
     </task>
     <servers />
   </component>
