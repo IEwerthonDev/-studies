@@ -1,4 +1,4 @@
-# REST: Arquitetura e Funcionamento
+# ♟️ REST: Arquitetura e Funcionamento
 
 REST (Representational State Transfer) é um estilo arquitetural de desenvolvimento de APIs que utiliza o protocolo HTTP para a comunicação entre cliente e servidor. Nessa abordagem, as APIs são projetadas para serem escaláveis, leves e de fácil manutenção.
 

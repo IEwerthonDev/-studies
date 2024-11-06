@@ -1,4 +1,4 @@
-# **Server Side Caching (Cache no Lado do Servidor)**
+# 🖥️ **Server Side Caching (Cache no Lado do Servidor)**
 O cache no lado do servidor envolve armazenar dados diretamente no servidor para melhorar a performance de respostas. Isso pode incluir o uso de Redis ou Memcached para armazenar dados temporários, reduzindo a carga de processamento ao evitar operações repetitivas.
 
 Para fazer o caching no lado do servidor (Server Side Caching) da forma mais robusta, vamos usar uma combinação de:

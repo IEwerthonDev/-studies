@@ -1,4 +1,4 @@
-# Caching
+# 🗃️ Caching
 
 **Caching** é uma técnica de otimização que armazena dados temporariamente para acesso rápido em uma camada intermediária, conhecida como **cache**. A ideia principal do caching é evitar o processamento repetido de informações que mudam com pouca frequência ou que são caras em termos de tempo e recursos para serem recuperadas.
 

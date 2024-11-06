@@ -1,4 +1,4 @@
-# Algoritmos com PHP
+# 🔂 Algoritmos com PHP
 
 Um algoritmo é um conjunto de instruções ou passos lógicos e organizados que permitem resolver um problema ou realizar uma tarefa específica. Em programação, os algoritmos são a base para a resolução de problemas e a criação de soluções eficientes.
 

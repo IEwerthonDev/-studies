@@ -1,4 +1,4 @@
-# **Redis**
+# 🤎 **Redis**
 Redis é uma solução de armazenamento em cache em memória, amplamente utilizada devido à sua alta performance e suporte para estruturas de dados avançadas, como listas, conjuntos e mapas. O Redis pode ser usado para armazenar dados temporários, como sessões de usuários, contagens de visualizações e dados de cache de banco de dados, melhorando a performance ao reduzir a necessidade de consultas ao banco de dados.
 
 Exemplo básico de uso com PHP:

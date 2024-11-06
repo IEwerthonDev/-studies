@@ -1,4 +1,4 @@
-# Autenticação em APIs
+# 🛡️ Autenticação em APIs
 
 A autenticação em APIs é fundamental para garantir a segurança e o controle de acesso aos recursos. Alguns dos métodos de autenticação mais comuns são:
 
