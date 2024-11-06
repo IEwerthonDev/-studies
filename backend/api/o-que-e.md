@@ -1,6 +1,4 @@
-Aqui está a versão em Markdown:
-
-# O que é uma API
+# 📤 O que é uma API
 
 API (Application Programming Interface) é um conjunto de regras e protocolos que definem como diferentes softwares podem se comunicar e interagir entre si. Em outras palavras, é uma interface que permite que aplicações acessem e manipulem funcionalidades de outras aplicações ou serviços.
 

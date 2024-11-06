@@ -1,4 +1,4 @@
-# Como a internet funciona?
+# 🛜 Como a internet funciona?
 
 Pode se dizer que a internet é uma rede de redes, **mas afinal o que é uma "rede"?**
 

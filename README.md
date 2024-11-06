@@ -39,13 +39,13 @@ Aqui estão algumas das principais tecnologias abordadas neste repositório:
 
 - **PHP**: Linguagem de programação amplamente usada no desenvolvimento web.
 - **Symfony**: Framework PHP robusto para construir aplicações web.
-- **Redis**: Sistema de cache em memória para melhorar a performance.
+- **Redis**: Sistema de cache em memória para melhorar o desempenho.
 - **MySQL**: Banco de dados relacional para armazenar dados de forma estruturada.
 - **Docker**: Plataforma para desenvolver, enviar e executar aplicações em containers.
 - **Composer**: Gerenciador de dependências para PHP.
 - **API RESTful**: Arquitetura para criação de APIs escaláveis e eficientes.
 - **JWT**: JSON Web Tokens para autenticação segura.
-- **E mais coisas aleatorias que eu for estudando durante um tempo... (isso aqui definitivamente terá mais assuntos que não só voltados a backend)**
+- **E mais coisas aleatórias que eu for estudando durante um tempo... (isso aqui definitivamente terá mais assuntos que não só voltados a backend)**
 
 ---
 
@@ -56,7 +56,9 @@ Aqui estão algumas das principais tecnologias abordadas neste repositório:
 │   ├── algoritmos/
 │   ├── api/
 │   ├── caching/
-│   └── estrutura-de-dadod/
+│   ├── estrutura-de-dados/
+│   ├── testes/
+│   └── web-security/
 ├── internet/
 │   └── sobre/
 ├── README.md

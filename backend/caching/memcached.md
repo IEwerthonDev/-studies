@@ -1,4 +1,4 @@
-# **Memcached**
+# 🥡 **Memcached**
 Memcached é outra solução de cache em memória, conhecida por sua simplicidade e eficiência. Ele é usado principalmente para armazenar pares de chave-valor simples, sendo uma escolha popular para reduzir a carga no banco de dados em aplicações de grande escala.
 
 Exemplo de uso com PHP:
